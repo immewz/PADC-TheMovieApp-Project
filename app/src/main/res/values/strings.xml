@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MyMovieApp</string>
+    <string name="lbl_discover">Discover</string>
+    <string name="lbl_search">Search</string>
+    <string name="lbl_the_wolverine_2013_nofficial_review">The Wolverine 2013 \nOfficial Review</string>
+    <string name="lbl_movie_name_the_wolverine">The Wolverine</string>
+    <string name="lbl_best_popular_film_and_series">Best Popular Film and Series</string>
+    <string name="lbl_check_movie_showtimes">Check Movie \nShowTimes</string>
+    <string name="lbl_see_more"><u>See More</u></string>
+    <string name="lbl_showcases">SHOWCASES</string>
+    <string name="lbl_more_showcases"><u>More Showcases</u></string>
+    <string name="lbl_movie_date">15 Dec 2013</string>
+    <string name="lbl_movie_name">Wolverine</string>
+    <string name="lbl_best_actors">Best Actors</string>
+    <string name="lbl_more_actor"><u>More Actors</u></string>
+    <string name="lbl_best_actor">Best Actor</string>
+    <string name="lbl_favorite">You Like 15 Movies</string>
+    <string name="lbl_actor_name">Leonardo Dicaprio</string>
+    <string name="lbl_movie_detail_collapse_name">Fantastic Beasts And Where To Find Them</string>
+    <string name="lbl_movie_detail_name">Fantastic Beasts And Where To Find Them</string>
+    <string name="lbl_movie_detail_rating_score">9,75</string>
+    <string name="lbl_movie_detail_votes">388876 VOTES</string>
+    <string name="lbl_movie_detail_play_trailer">Play Trailer</string>
+    <string name="lbl_overview_movie_detail">Lured to a Japan he hasn\'t seen since World War II, century-old mutant Wolverine (Hugh Jackman) finds himself in a shadowy realm of yakuza and samurai. Wolverine is pushed to his physical and emotional brink when he is forced to go on the run with a powerful industrialist\'s daughter (Tao Okamoto) and is confronted -- for the first time -- with the prospect of death. As he struggles to rediscover the hero within himself, he must grapple with powerful foes and the ghosts of his own haunted past.</string>
+    <string name="lbl_movie_detail_story_line">Story Line</string>
+    <string name="lbl_movie_detail_chip_action">Action</string>
+    <string name="lbl_movie_detail_chip_family">Family</string>
+    <string name="lbl_movie_detail_chip_adventure">Adventure</string>
+    <string name="lbl_movie_detail_rate_movie">Rate Movie</string>
+
+    <string name="lbl_actors">ACTORS</string>
+    <string name="lbl_creators">CREATORS</string>
+    <string name="lbl_more_creator"><u>MORE CREATORS</u></string>
+    <string name="lbl_original_title_label">Original Title</string>
+    <string name="lbl_original_title">Fantastic Beasts And Where To Find Them</string>
+    <string name="lbl_type_label">Type</string>
+    <string name="lbl_type">Fantasy, Family, Adventure</string>
+    <string name="lbl_production_label">Production</string>
+    <string name="lbl_production">United Kingdom, USA</string>
+    <string name="lbl_description_label">Description</string>
+    <string name="lbl_description">Fantastic Beasts, a fictional novel by J.K. Rowling, follows a magical young man named Newt on a journey to find his beasts that escaped. Newt Scamander is a wizard unlike any other, he uses not only his powers but the powers of his magical animals. In Fantastic Beasts Newt has lost some of his creatures and needs to find them before they wreak havoc among the regular people’s lives and more importantly before the truth about wizards being real is revealed to everyone. Newt meets lots of strange people almost as fascinating as his beasts and even befriends a person named Jacob on his journey. </string>
+    <string name="lbl_about_film">About Film</string>
+    <string name="lbl_please_enter_movie_name">Please enter movie name</string>
+</resources>

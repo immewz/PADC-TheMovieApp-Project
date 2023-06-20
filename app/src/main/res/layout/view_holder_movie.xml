@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/margin_medium_2">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivMovieImage"
+        android:layout_width="@dimen/width_movie_image"
+        android:layout_height="@dimen/height_movie_image"
+        android:src="@drawable/placeholder_wolverine"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:id="@+id/tvMovieName"
+        android:layout_width="@dimen/width_movie_image"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ivMovieImage"
+        android:layout_marginTop="16dp"
+        android:text="@string/lbl_movie_name_the_wolverine"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_regular_2x"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvMovierating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvMovieName"
+        android:layout_marginTop="@dimen/margin_small"
+        android:text="8.2"
+        android:textColor="@color/white" />
+
+    <RatingBar
+        android:id="@+id/rbMovieRating"
+        android:layout_below="@id/tvMovieName"
+        android:layout_toEndOf="@id/tvMovierating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:progressBackgroundTint="@color/colorAccent"
+        android:numStars="5"
+        android:rating="5"
+        style="?attr/ratingBarStyleSmall"
+        android:layout_marginStart="@dimen/margin_medium_2"
+        android:layout_marginTop="@dimen/margin_small"/>
+
+</RelativeLayout>
