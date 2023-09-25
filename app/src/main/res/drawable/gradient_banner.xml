@@ -6,6 +6,5 @@
         android:endColor="@color/colorPrimary"
         android:angle="270"
         android:centerColor="@android:color/transparent"
-        android:centerY="0.7"/>
-
+        android:centerY="0.65"/>
 </shape>
